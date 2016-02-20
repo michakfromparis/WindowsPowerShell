@@ -28,7 +28,7 @@ $adminPrompt      = "#"
 
 # Prompt colors
 
-$backgroundColor          = 'DarkGray'
+$backgroundColor          = 'Black'
 $adminBackgroundColor     = 'Black'
 $ClearBackground          = 'true'
 
