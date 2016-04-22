@@ -2,6 +2,16 @@
 A decent bash / git prompt for powershell 
 
 ![](www/img/screenshot.png)
+## Requirements
+
+You need to be able to execute powershell scripts on your computer.
+
+This is disabled by default. To enable it, open a PowerShell prompt and type:
+
+```posh
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser -Force
+```
+
 ## Installation
 
 ```bash
